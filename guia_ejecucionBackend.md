@@ -1,4 +1,4 @@
-# Guía del Alumno: Puesta en Marcha del Backend con Docker y Postman
+# Guía: Puesta en Marcha del Backend con Docker y Postman
 
 Esta guía detalla los pasos exactos que debes seguir, desde la obtención del proyecto backend desde el repositorio de GitHub hasta la verificación completa de su funcionamiento mediante pruebas de API en Postman.
 
